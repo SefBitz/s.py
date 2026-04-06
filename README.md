@@ -6,8 +6,20 @@
 <a href="https://youtube.com/@sefbitz">Youtube</a>
 
 
-
 This is a custom Python-based Command Line Interface (CLI) designed to be launched directly from a Bash terminal (Linux, macOS, or Git Bash on Windows).
+
+## What it does
+- This CLI tool runs in 2 stages in order to fufill the requirements for development
+#### Stage 1: Greeting
+- The CLI at this stage will prompt the user with "Enter a string", where you are presented with 3 choices
+  1. say 'hi': this will trigger a `print()` that responds and will cause the program to move unto the 2nd stage.
+  2. say 'hello': this will also trigger the same response and moves the program forward. Please note that this stage is case insensitive.
+  3. say something else: this response will trigger an unhappy response from the CLI, softlocking you and forcing you to restart the program. **please do not trigger this.**
+ 
+#### Stage 2: Logging
+- The CLI will now create a folder if you have not, if you have installed the program using the steps below, it should work well.
+- The CLI will now prompt the user for a log input, which it will append along with the current time into the `log.txt` file. 
+- You can type `exit` to exit this stage. 
 
 ## 🚀 Quick Start
 
@@ -16,7 +28,7 @@ Follow these three steps to get the script running on your machine:
 ### 0. Download the Repository
 To get a copy of this script and all its files on your computer, use the `git clone` command in your Git Bash terminal:
 
-`git clone https://github.com`
+`git clone https://github.com/SefBitz/spyPY`
 
 After cloning, move into the project directory:
 
