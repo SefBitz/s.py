@@ -7,6 +7,15 @@ This is a custom Python-based Command Line Interface (CLI) designed to be launch
 
 Follow these three steps to get the script running on your machine:
 
+### 0. Download the Repository
+To get a copy of this script and all its files on your computer, use the `git clone` command in your Git Bash terminal:
+
+`git clone https://github.com`
+
+After cloning, move into the project directory:
+
+cd your-repo-name
+
 ### 1. Prerequisites
 Ensure you have Python 3 installed. 
 * Windows Users: You must use Git Bash to run these commands.
