@@ -19,7 +19,7 @@ To get a copy of this script and all its files on your computer, use the `git cl
 
 After cloning, move into the project directory:
 
-cd your-repo-name
+`cd spyPY`
 
 ### 1. Prerequisites
 Ensure you have Python 3 installed. 
