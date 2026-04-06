@@ -3,7 +3,7 @@
 https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/discord.svg
 This is a custom Python-based Command Line Interface (CLI) designed to be launched directly from a Bash terminal (Linux, macOS, or Git Bash on Windows).
 
-<a href="https://discord.com/users/1275686951499857924"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/discord.svg></a>
+<a href="https://discord.com/users/1275686951499857924"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/discord.svg\></a>
 
 ## 🚀 Quick Start
 
