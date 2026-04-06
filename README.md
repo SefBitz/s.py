@@ -45,5 +45,5 @@ If you are using Git Bash and the script hangs or doesn't show output, Windows m
 `winpty ./s.py`
 
 To avoid typing winpty every time, you can add this alias to your .bashrc file:
-alias s='winpty python s.py'
+`alias s='winpty python s.py'`
   
