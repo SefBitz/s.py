@@ -1,5 +1,5 @@
 # Python CLI Tool
-<img src="https://socialify.git.ci/SefBitz/s.py/image?description=1&font=Jost&language=1&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Dark">
+[<img src="https://socialify.git.ci/SefBitz/s.py/image?description=1&font=Jost&language=1&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Dark">](https://socialify.git.ci/SefBitz/spyPY/image?description=1&font=Jost&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Dark)
 
 <a href="https://discord.com/users/1275686951499857924">Discord</a>
 <a href="https://youtube.com/@sefbitz">Youtube</a>
